@@ -1,3 +1,3 @@
 ## Calculatrice :
-### exo-calcul.netlify.app
+### Pour la voir :exo-calcul.netlify.app
 
